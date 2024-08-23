@@ -1,4 +1,4 @@
-# WeatherMuse
+# Weatherical
 
 _A Weather Application that simplifies the way you view weather_
 ![image](https://user-images.githubusercontent.com/95405559/223127033-1625d138-cfbd-47bd-840d-11fc834ae601.png)
